@@ -24,7 +24,7 @@ Includes my HackerRank coding progress and the Google Form/Sheet data pipeline I
 ###  [Task 4: Professional Communication](./task-4-email-etiquette/)
 Includes formal email drafts for academic and professional inquiries, along with a social media safety checklist.
 
-###  [Task 5: Cybercrime Awareness](./task-5-cybercrime-awareness/)
+###  [Task 5: Cybercrime Awareness](./task-5-cybercrime/)
 A detailed case study on UPI and Financial Fraud in India, including an 8-point prevention guide for students.
 
 ---
