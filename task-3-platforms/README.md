@@ -4,7 +4,7 @@ This module focuses on building technical proficiency through coding practice an
 
 ---
 
-## 💻 Part A: Coding Practice
+## Part A: Coding Practice
 I chose **HackerRank** as my platform to practice foundational programming logic. 
 
 * **Challenge Completed:** Python Lists (Basic Data Types)
@@ -13,7 +13,7 @@ I chose **HackerRank** as my platform to practice foundational programming logic
 
 ---
 
-## ☁️ Part B: Google Workspace Collaboration
+## Part B: Google Workspace Collaboration
 I developed a digital resource to engage with my peers and practice cloud data management.
 
 ### 1. Digital Literacy Awareness Quiz
