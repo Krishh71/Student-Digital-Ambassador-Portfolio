@@ -42,4 +42,4 @@ As a Digital Ambassador, I aim to:
 3. Promote cyber safety and clear communication within the student community.
 
 ---
-*Connect with me on [LinkedIn](www.linkedin.com/in/krish-kumar-a28060276) 
+
