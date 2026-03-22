@@ -5,7 +5,7 @@ This module focuses on building technical proficiency through coding practice an
 ---
 
 ## 💻 Part A: Coding Practice
-I chose **HackerRank** as my platform to practice foundational programming logic. As an aspiring AI/ML Engineer, mastering these Python data structures is the first step toward building complex models.
+I chose **HackerRank** as my platform to practice foundational programming logic. 
 
 * **Challenge Completed:** Python Lists (Basic Data Types)
 * **Outcome:** Successfully passed all test cases and earned points toward my Python badge.
@@ -17,11 +17,11 @@ I chose **HackerRank** as my platform to practice foundational programming logic
 I developed a digital resource to engage with my peers and practice cloud data management.
 
 ### 1. Digital Literacy Awareness Quiz
-I created a 5-question Google Form designed to test student knowledge on topics like phishing and 2FA.
+I created a 5-question Google Form designed to test student knowledge on topics related to digital literacy
 * **Question Types:** Includes multiple-choice and short-answer formats.
 * **Live Link:** [Digital Literacy Awareness Quiz](https://forms.gle/JkennYdDn8A8Z1jL8)
 * **Proof:** `google_form.png` (Available in this folder).
 
 ### 2. Response Tracking
-I linked the quiz to a Google Sheet to create a live data pipeline for monitoring responses.
+I linked the quiz to a Google Sheet
 * **Proof:** `google_response_spreadsheet.png` (Available in this folder).
