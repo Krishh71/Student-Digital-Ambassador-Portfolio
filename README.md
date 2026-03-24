@@ -20,6 +20,7 @@ A guide to the digital platforms I use, including my GitHub and LinkedIn setup f
 
 ###  [Task 3: Digital Tools & Skills](./task-3-platforms/)
 Includes my HackerRank coding progress and the Google Form/Sheet data pipeline I built for information gathering.
+Google form link-https://forms.gle/JkennYdDn8A8Z1jL8 
 
 ###  [Task 4: Professional Communication](./task-4-email-etiquette/)
 Includes formal email drafts for academic and professional inquiries, along with a social media safety checklist.
