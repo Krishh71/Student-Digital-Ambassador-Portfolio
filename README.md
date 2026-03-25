@@ -32,7 +32,7 @@ A detailed case study on UPI and Financial Fraud in India, including an 8-point 
 
 ##  Final Project Report
 You can find the complete summary of all five modules in the official report folder:  
- **[View Full Project Report](.report.pdf)**
+ **[View Full Project Report](report.pdf)**
 
 ---
 
