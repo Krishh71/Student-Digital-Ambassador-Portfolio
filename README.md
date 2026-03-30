@@ -3,7 +3,9 @@
 Welcome to my professional portfolio! This repository documents my work as a **Student Digital Ambassador**, covering everything from personal branding and coding to professional etiquette and digital safety.
 
 **Name:** Krish Kumar
+
 **Registration Number:** 25BAI11149 
+
 **Target Goal:** Aspiring AI/ML Engineer & Full-Stack Developer  
 
 ---
